@@ -80,7 +80,7 @@
                 <div style="margin-top:20px">
                    <hr style="border:solid red .01pt"/>
                     <div style="text-align:center">
-                        Application  Developed and maintained by Tech Novice Solutions&trade;
+                        Application  Developed and maintained by B Rajugouda Haranahalli;
                     </div>
                 </div>
            
